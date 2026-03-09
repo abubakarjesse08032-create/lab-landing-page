@@ -24,3 +24,10 @@ buttons.forEach(btn=>{
     }
   });
 });
+
+
+// ================= CHAT WITH THE DEVELOPER TOGGLE =================
+
+setTimeout(function(){
+  document.getElementById("waBubble").style.opacity = "0";
+}, 7000);
